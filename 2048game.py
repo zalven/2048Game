@@ -1,5 +1,19 @@
 # 2048Game
 begginer Pygame 2048 :&lt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import pygame 
 import random
 from pygame import *
